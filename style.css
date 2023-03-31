@@ -8,6 +8,11 @@
 
 }
   
+.center{
+    font-family: 'Calibri';
+    text-align: center;
+}
+
 .vertical-menu a {
     background-color: #04AA6D;
     color: rgb(250, 247, 247);
